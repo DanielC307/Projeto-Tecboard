@@ -1,16 +1,43 @@
-# React + Vite
+# Projeto Tecboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido para criação da interface do sistema Tecboard.
 
-Currently, two official plugins are available:
+O objetivo é desenvolver a interface web utilizando React e JS.
+seguindo o layout definido pela equipe.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias utilizadas
 
-## React Compiler
+- HTML5
+- CSS3
+- React
+- JavaScript
+- Git
+- GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ▶️ Como executar o projeto
 
-## Expanding the ESLint configuration
+1. Clone o repositório:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+git clone https://github.com/DanielC307/Projeto-Tecboard.git
+
+2. Acesse a pasta do projeto:
+
+cd Projeto-Tecboard
+
+3. Instale as dependências:
+
+npm install
+
+4. Execute o projeto:
+
+npm run dev
+
+## 📦 Requisitos
+
+- Node.js instalado
+- npm ou yarn
+
+## 👨‍💻 Autor
+
+Daniel Caetano
+Projeto acadêmico Tecboard
