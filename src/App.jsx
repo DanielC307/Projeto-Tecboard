@@ -52,7 +52,7 @@ function App() {
         <img src="/logo.png" alt="" />
       </header>
       <Banner />
-      <FormularioDeEventos />
+      <FormularioDeEventos temas={temas}/>
       {temas.map(function (item) {
         return (
           <section key={item.id}>
