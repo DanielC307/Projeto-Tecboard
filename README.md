@@ -16,6 +16,10 @@ seguindo o layout definido pela equipe.
 
 ## ▶️ Como executar o projeto
 
+Acessando o dominio: https://projeto-tecboard-psi.vercel.app
+
+OU
+
 1. Clone o repositório:
 
 git clone https://github.com/DanielC307/Projeto-Tecboard.git
